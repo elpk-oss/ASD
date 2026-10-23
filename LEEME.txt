@@ -1,0 +1,22 @@
+SMART TOOL SWITCHER (Fabric 1.21.1)
+===================================
+Funciones
+- Cambia solo a la herramienta correcta al mirar/romper un bloque (hacha, pico, pala...), incluso desde la mochila.
+- Si una herramienta tiene <= 5 de durabilidad restante, la deja de usar, avisa y pasa a la siguiente.
+- R: activar/desactivar el cambio de herramienta
+- V: activar/desactivar el cambio automático a espada/hacha al mirar un mob (apagado por defecto)
+- G: ordenar la hotbar (en el juego o con el inventario abierto)
+- H: cambiar el orden: "Espada>Hacha>Pico>Pala" o "Hacha>Pico>Espada>Pala"
+- K: con un cofre/barril/shulker abierto, guarda toda la mochila (la hotbar queda)
+Las teclas se pueden cambiar en Controles > Smart Tool Switcher.
+
+COMO CONSTRUIR EL .JAR (sin instalar nada)
+1. Crea una cuenta gratis en github.com y un repositorio nuevo.
+2. Sube TODO el contenido de esta carpeta (incluida la carpeta oculta .github).
+3. Ve a la pestaña "Actions" > "build" > espera el check verde.
+4. Entra a esa ejecución, baja "SmartToolSwitcher" (zip) y dentro esta el .jar.
+5. Copia el .jar a la carpeta mods junto con Fabric API.
+
+COMO CONSTRUIR EN TU PC
+Instala JDK 21 y Gradle 8.10, y en esta carpeta ejecuta: gradle build
+El .jar queda en build/libs/

@@ -1,0 +1,8 @@
+{
+  "category.smarttoolswitcher": "Smart Tool Switcher",
+  "key.smarttoolswitcher.toggle": "Activar/desactivar cambio automático de herramienta",
+  "key.smarttoolswitcher.combat": "Activar/desactivar cambio automático de arma",
+  "key.smarttoolswitcher.sort": "Ordenar hotbar (espada/hacha/pico/pala)",
+  "key.smarttoolswitcher.preset": "Cambiar orden de la hotbar",
+  "key.smarttoolswitcher.store": "Guardar todo en el cofre abierto"
+}

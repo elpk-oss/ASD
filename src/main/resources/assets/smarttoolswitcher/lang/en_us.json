@@ -1,0 +1,8 @@
+{
+  "category.smarttoolswitcher": "Smart Tool Switcher",
+  "key.smarttoolswitcher.toggle": "Toggle auto tool switching",
+  "key.smarttoolswitcher.combat": "Toggle auto weapon switching",
+  "key.smarttoolswitcher.sort": "Sort hotbar (sword/axe/pickaxe/shovel)",
+  "key.smarttoolswitcher.preset": "Change hotbar order",
+  "key.smarttoolswitcher.store": "Store everything in open chest"
+}
